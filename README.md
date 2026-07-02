@@ -1,16 +1,56 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+mohanram+here!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<!--
-**mohanram002/mohanram002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer passionate about building clean, efficient code and exploring new technologies. 
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Building predictive maintanance project and sharpening my skills.
+- 🌱 **Learning:** Dive deeper into machine learning theory and functional programming.
+- 💬 **Ask Me About:** Python, data structures, or strategic thinking.
+- ⚡ **Fun Fact:** I clear my mind and get my best coding ideas while taking long walks.
+- 📈 Interested in solving real-world problems using data.
+- 🎯 Goal: Become a Machine Learning Engineer.
+---
+## 🚀 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💰 AI Personal Finance Assistant
+- 🔧 Predictive Maintenance using Machine Learning
+- 😊 Face Recognition System
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Feature Engineering
+- Model Deployment
+- FastAPI
+  
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Machine Learning**
+- Scikit-learn
+- Pandas
+- NumPy
+- OpenCV
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+### 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanram002&show_icons=true&theme=radial)](https://github.com/mohanram002)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanram002&layout=compact&theme=radial)](https://github.com/mohanram002)
+
+---
+
+### 📫 Connect with Me
+
+[🌐 Portfolio](https://yourwebsite.com) | [💼 LinkedIn](https://linkedin.com/in/yourprofile) | [📧 Email](mailto:your.email@example.com)
