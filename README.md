@@ -1,3 +1,9 @@
+<div align="center">
+
+# 👋 Welcome to My GitHub
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24,30&text=Mohan%20Ram&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20|%20Data%20Science%20|%20Python&descAlignY=58&descSize=18&descColor=7DF9FF"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+mohanram+here!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I am a software developer passionate about building clean, efficient code and exploring new technologies. I thrive on turning data into actionable solutions and am actively building my expertise to solve complex, real-world challenges.
@@ -61,6 +67,7 @@ I am a software developer passionate about building clean, efficient code and ex
     </td>
   </tr>
 </table>
+<div align="center">
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Core
@@ -90,6 +97,7 @@ I am a software developer passionate about building clean, efficient code and ex
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" />
 </p>
+</div>
 
 ### 📈 GitHub Stats
 
