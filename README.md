@@ -1,48 +1,95 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+mohanram+here!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I am a software developer passionate about building clean, efficient code and exploring new technologies. 
+I am a software developer passionate about building clean, efficient code and exploring new technologies. I thrive on turning data into actionable solutions and am actively building my expertise to solve complex, real-world challenges.
 
-- 🔭 **Current Focus:** Building predictive maintanance project and sharpening my skills.
-- 🌱 **Learning:** Dive deeper into machine learning theory and functional programming.
-- 💬 **Ask Me About:** Python, data structures, or strategic thinking.
-- ⚡ **Fun Fact:** I clear my mind and get my best coding ideas while taking long walks.
-- 📈 Interested in solving real-world problems using data.
-- 🎯 Goal: Become a Machine Learning Engineer.
+🎯 **Career Goal:** Become a Machine Learning Engineer
+
 ---
-## 🚀 Current Projects
 
-- 💰 AI Personal Finance Assistant
-- 🔧 Predictive Maintenance using Machine Learning
-- 😊 Face Recognition System
+### 🚀 What I'm Up To
 
-## 📚 Currently Learning
+*   🔭 **Current Focus:** Building a **Predictive Maintenance Project** and sharpening my end-to-end development skills.
+*   🌱 **Learning:** Diving deeper into advanced **Machine Learning Theory** and **Functional Programming** paradigms.
+*   📈 **Passions:** Solving real-world problems using data-driven insights and predictive modeling.
+*   💬 **Ask Me About:** Python optimization, data structures, or strategic thinking.
+*   ⚡ **Fun Fact:** I clear my mind and get my best coding ideas while taking long, relaxing walks.
 
-- Machine Learning
-- Deep Learning
-- Feature Engineering
-- Model Deployment
-- FastAPI
-  
+---
+---
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <details open>
+        <summary><b>🔧 Predictive Maintenance using Machine Learning</b></summary>
+        <br />
+        <p>An end-to-end Machine Learning project that analyzes industrial sensor data to predict equipment failures before they occur. The system includes data preprocessing, feature engineering, model training, evaluation, and visualization to support proactive maintenance and reduce operational downtime.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Active_Focus-brightgreen?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Tech-Python_|_Scikit--Learn_|_Pandas_|_NumPy_|_Matplotlib-blueviolet?style=flat-square" alt="Tech" />
+        </p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <details>
+        <summary><b>💰 Budget Visualizer</b></summary>
+        <br />
+        <p>A personal finance web application that helps users track income and expenses through interactive charts and insightful analytics. It enables users to visualize spending patterns and manage budgets effectively.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Tech-HTML_|_CSS_|_Chart.js_|_Python_|_SQLite-blue?style=flat-square" alt="Tech" />
+        </p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <details>
+        <summary><b>🛒 Grocery Shopping Website</b></summary>
+        <br />
+        <p>A responsive grocery shopping website featuring a clean user interface, product browsing, shopping cart functionality, and an intuitive shopping experience built with modern front-end technologies.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Tech-HTML_|_CSS_|_JavaScript-informational?style=flat-square" alt="Tech" />
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- SQL
+### 💻 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-**Machine Learning**
-- Scikit-learn
-- Pandas
-- NumPy
-- OpenCV
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
 
-**Database**
-- MySQL
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,opencv" />
+</p>
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Environments
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" />
+</p>
 
 ### 📈 GitHub Stats
 
