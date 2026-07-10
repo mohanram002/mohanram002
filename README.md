@@ -46,7 +46,7 @@ I am a software developer passionate about building clean, efficient code and ex
         <br />
         <p>A personal finance web application that helps users track income and expenses through interactive charts and insightful analytics. It enables users to visualize spending patterns and manage budgets effectively.</p>
         <p>
-          <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status" />
           <img src="https://img.shields.io/badge/Tech-HTML_|_CSS_|_Chart.js_|_Python_|_SQLite-blue?style=flat-square" alt="Tech" />
         </p>
       </details>
