@@ -38,7 +38,32 @@ I am a software developer passionate about building clean, efficient code and ex
       </details>
     </td>
   </tr>
-
+<tr>
+  <td>
+    <details open>
+      <summary><b>🧑‍💻 FaceFind - AI Face Recognition System</b></summary>
+      <br />
+      <p>An end-to-end AI-powered face recognition web application that identifies individuals from uploaded images using deep learning and computer vision. The system performs image preprocessing, face detection, facial feature extraction, similarity matching, and result visualization through an interactive Flask-based web interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-InProgress-brightgreen?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Tech-Python_|_Flask_|_DeepFace_|_OpenCV_|_TensorFlow_-blueviolet?style=flat-square" alt="Tech" />
+      </p>
+    </details>
+  </td>
+</tr>
+  <tr>
+  <td>
+    <details open>
+      <summary><b>📊 Student Performance Index Prediction</b></summary>
+      <br />
+      <p>An end-to-end Machine Learning web application that predicts a student's performance index based on academic and lifestyle factors. The system includes data preprocessing, feature engineering, model training, evaluation, and a Flask-based web interface to provide accurate performance predictions and support educational insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Tech-Python_|_Flask_|_Scikit--Learn_|_Pandas_|_NumPy_|_HTML_|_CSS-blueviolet?style=flat-square" alt="Tech" />
+      </p>
+    </details>
+  </td>
+</tr>
   <tr>
     <td>
       <details>
@@ -52,6 +77,7 @@ I am a software developer passionate about building clean, efficient code and ex
       </details>
     </td>
   </tr>
+  
 
   <tr>
     <td>
