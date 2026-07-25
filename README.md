@@ -8,7 +8,7 @@
 
 I am a software developer passionate about building clean, efficient code and exploring new technologies. I thrive on turning data into actionable solutions and am actively building my expertise to solve complex, real-world challenges.
 
-🎯 **Career Goal:** Become a Machine Learning Engineer
+🎯 Career Goal: Become a Machine Learning Engineer
 
 ---
 
